@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------------
+I6.What are the tools that help to find bugs or perform static analysis?
+---Pychecker 
+---Pylint
+
+-------------------------------------------------------------------------------------
+I7.What is Python Decorator?
+ ---By understanding how to create decorators, you make your code extensible and more readable.
+
+---decorators called callable entity becuase that are allows us to make modification functions or classes.
+
+ex.function in function passing
+
+-------------------------------------------------------------------------------------
+I8.What is PEP 8?
+---pep-8 is basically guideline of how to write python code 
+---it was written in 2001
+---it is for incraese the readebility and consistancy
+
+-------------------------------------------------------------------------------------
