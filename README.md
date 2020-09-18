@@ -49,13 +49,13 @@ Assignment Level Advance
           A5:- Write a python program to sum of the first n positive integers
         
         
- Topic: String manipulation
- Accessing String,Basic Operation,String slice,Function and method
+Topic: String manipulation
+Accessing String,Basic Operation,String slice,Function and method
         
 Assignment Level Basic
           B1.Write a Python program to calculate the length of a string.
           B2.Write a Python program to count the number of characters (character frequency)
-           in a string
+          in a string
           B3. What are negative indexes and why are they used?
           B4. Explain split(), sub(), subn() methods of “re” module in Python.
           B5.How do you perform pattern matching in Python? Explain
@@ -64,32 +64,31 @@ Assignment Level Basic
         
         
 Assignment Level Intermediate
-        
-        I1.Write a Python program to get a single string from two given strings,
-        separated by a space and swap the first two characters of each string.
-        I2.Write a Python program to add 'ing' at the end of a given string
-        (length should be at least 3). If the given string already ends with 'ing' then add 'ly' instead
-        If the string length of the given string is less than 3, leave it unchanged
-        I3.Write a Python program to find the first appearance of the substring 'not'
-        and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor'
-        substring with 'good'. Return the resulting string.
-        I4. Write a Python function that takes a list of words and returns the
-        length of the longest one.
-        I5. Write a Python function to reverses a string if it's length is a multiple of 4
+         I1.Write a Python program to get a single string from two given strings,
+         separated by a space and swap the first two characters of each string.
+         I2.Write a Python program to add 'ing' at the end of a given string
+         (length should be at least 3). If the given string already ends with 'ing' then add 'ly' instead
+         If the string length of the given string is less than 3, leave it unchanged
+         I3.Write a Python program to find the first appearance of the substring 'not'
+         and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor'
+         substring with 'good'. Return the resulting string.
+         I4. Write a Python function that takes a list of words and returns the
+         length of the longest one.
+         I5. Write a Python function to reverses a string if it's length is a multiple of 4
         
 Assignment Level Advance
         
-        A1.Write a Python program to get a string made of the first 2 and the last 2 chars
-        from a given a string. If the string length is less than 2, return instead of the empty string.
-        Go to the editor
-        Sample String : 'w3resource'
-        Expected Result : 'w3ce'
-        Sample String : 'w3'
-        Expected Result : 'w3w3'
-        Sample String : ' w'
-        Expected Result : Empty String
+         A1.Write a Python program to get a string made of the first 2 and the last 2 chars
+         from a given a string. If the string length is less than 2, return instead of the empty string.
+         Go to the editor
+         Sample String : 'w3resource'
+         Expected Result : 'w3ce'
+         Sample String : 'w3'
+         Expected Result : 'w3w3'
+         Sample String : ' w'
+         Expected Result : Empty String
         
-        A2.Write a Python program to get a string from a given string where all occurrences
-        of its first char have been changed to '$', except the first char itself
+         A2.Write a Python program to get a string from a given string where all occurrences
+         of its first char have been changed to '$', except the first char itself
         
-        A3. Write a Python function to insert a string in the middle of a string
+         A3. Write a Python function to insert a string in the middle of a string
