@@ -49,10 +49,10 @@ Assignment Level Advance
         A5:- Write a python program to sum of the first n positive integers
         
         
-        Topic: String manipulation
-        Accessing String,Basic Operation,String slice,Function and method
+ Topic: String manipulation
+ Accessing String,Basic Operation,String slice,Function and method
         
-        Assignment Level Basic
+Assignment Level Basic
         B1.Write a Python program to calculate the length of a string.
         B2.Write a Python program to count the number of characters (character frequency)
         in a string
@@ -63,7 +63,7 @@ Assignment Level Advance
         B7. Write a Python program to count the occurrences of each word in a given sentence
         
         
-        Assignment Level Intermediate
+Assignment Level Intermediate
         
         I1.Write a Python program to get a single string from two given strings,
         separated by a space and swap the first two characters of each string.
@@ -77,7 +77,7 @@ Assignment Level Advance
         length of the longest one.
         I5. Write a Python function to reverses a string if it's length is a multiple of 4
         
-        Assignment Level Advance
+Assignment Level Advance
         
         A1.Write a Python program to get a string made of the first 2 and the last 2 chars
         from a given a string. If the string length is less than 2, return instead of the empty string.
