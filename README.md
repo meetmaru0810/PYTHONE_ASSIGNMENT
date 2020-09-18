@@ -53,6 +53,7 @@ Topic: String manipulation
 Accessing String,Basic Operation,String slice,Function and method
         
 Assignment Level Basic
+
           B1.Write a Python program to calculate the length of a string.
           B2.Write a Python program to count the number of characters (character frequency)
           in a string
@@ -64,6 +65,7 @@ Assignment Level Basic
         
         
 Assignment Level Intermediate
+
          I1.Write a Python program to get a single string from two given strings,
          separated by a space and swap the first two characters of each string.
          I2.Write a Python program to add 'ing' at the end of a given string
