@@ -38,29 +38,29 @@ Assignment Level Intermediate
 Assignment Level Advance
           
           
-        A1:- Write a Python program to sort three integers without using
-        conditional statements and loops.
-        A2:- Write a Python program that accepts an integer (n) and computes the value of
-        n+nn+nnn.
-        A3:- Write a Python program to sum of three given integers.
-        However, if two values are equal sum will be zero.
-        A4:- Write a Python program that will return true if the two given integer
-        values are equal or their sum or difference is 5.
-        A5:- Write a python program to sum of the first n positive integers
+          A1:- Write a Python program to sort three integers without using
+          conditional statements and loops.
+          A2:- Write a Python program that accepts an integer (n) and computes the value of
+          n+nn+nnn.
+          A3:- Write a Python program to sum of three given integers.
+          However, if two values are equal sum will be zero.
+          A4:- Write a Python program that will return true if the two given integer
+          values are equal or their sum or difference is 5.
+          A5:- Write a python program to sum of the first n positive integers
         
         
  Topic: String manipulation
  Accessing String,Basic Operation,String slice,Function and method
         
 Assignment Level Basic
-        B1.Write a Python program to calculate the length of a string.
-        B2.Write a Python program to count the number of characters (character frequency)
-        in a string
-        B3. What are negative indexes and why are they used?
-        B4. Explain split(), sub(), subn() methods of “re” module in Python.
-        B5.How do you perform pattern matching in Python? Explain
-        B6. Write a Python program to count occurrences of a substring in a string
-        B7. Write a Python program to count the occurrences of each word in a given sentence
+          B1.Write a Python program to calculate the length of a string.
+          B2.Write a Python program to count the number of characters (character frequency)
+           in a string
+          B3. What are negative indexes and why are they used?
+          B4. Explain split(), sub(), subn() methods of “re” module in Python.
+          B5.How do you perform pattern matching in Python? Explain
+          B6. Write a Python program to count occurrences of a substring in a string
+          B7. Write a Python program to count the occurrences of each word in a given sentence
         
         
 Assignment Level Intermediate
