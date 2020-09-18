@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------------
+B3. What are negative indexes and why are they used?
+---negative index means when we gave the index of a list,set...... from last element so thats called negative indexing it starts from -1.
+---thay are use becuase that is very efficent and more readable .that is use for revers the list,tupple......
+-------------------------------------------------------------------------------------
+B4. Explain split(), sub(), subn() methods of “re” module in Python?
+---re means reguler expresion that is module of python
+1111....split is method of re module 
+#txt="my name is meet"
+# x=re.split("\s",txt,2)
+# print(x)
+
+o.p=["my","name","is","meet"]
+/s means space convert in list
+
+2222....sub means in string we have to replece any word or char so we can use this function
+----txt="my name is meet"
+x=re.sub("m","29",txt)
+print(x)
+
+3333....subn means that give us no that how many changies are occure in sentence
+----------------------------------------------------------------------------------------------
+B5.How do you perform pattern matching in Python? Explain
+---with use of reguler expresion 
+---in that we use re.serach to perform pattern matching that takes two argument one is pattern and second is string
